@@ -29,7 +29,7 @@ namespace CreateStruct
         {
             Person p = new Person("Tony", "Allen", 32, Person.Genders.Male); 
             Console.WriteLine(p.ToString());
-
+            
             
         }
     }
